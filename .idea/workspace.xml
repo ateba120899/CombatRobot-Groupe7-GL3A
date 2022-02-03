@@ -8,7 +8,6 @@
       <change afterPath="$PROJECT_DIR$/src/test/java/Arena.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/ArenaTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/RobotTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Robot.java" afterDir="false" />
     </list>
@@ -34,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/RobotTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="326">
-              <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+              <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -233,12 +232,12 @@
       <workItem from="1643874020744" duration="1443000" />
       <workItem from="1643876102527" duration="1953000" />
       <workItem from="1643879666928" duration="1790000" />
-      <workItem from="1643915015532" duration="318000" />
+      <workItem from="1643915015532" duration="481000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5542000" />
+    <option name="totallyTimeSpent" value="5705000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
@@ -323,7 +322,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/RobotTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="326">
-          <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
         </state>
       </provider>
     </entry>
